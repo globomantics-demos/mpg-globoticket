@@ -1,0 +1,5 @@
+services:
+  api-gateway:
+  ticket-service:
+  event-service:
+  user-service:

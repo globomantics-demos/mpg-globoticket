@@ -1,0 +1,8 @@
+{
+  "name": "@globoticket/api-gateway",
+  "version": "1.0.0",
+  "dependencies": {
+    "@globoticket/ticket-service": "1.0.0",
+    "@globoticket/event-service": "1.0.0"
+  }
+}
