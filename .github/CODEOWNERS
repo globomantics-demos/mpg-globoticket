@@ -1,0 +1,5 @@
+*                      @globomantics-demos/platform
+/common/               @globomantics-demos/platform
+/ticket-service/       @globomantics-demos/tickets
+/event-service/        @globomantics-demos/events
+*.yml                  @globomantics-demos/infra
